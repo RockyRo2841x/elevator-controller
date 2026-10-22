@@ -1,0 +1,10 @@
+build/
+*.exe
+*.elf
+*.hex
+*.eep
+*.workspace
+Project Backups/
+.vscode/
+Thumbs.db
+.DS_Store
